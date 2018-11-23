@@ -1,0 +1,15 @@
+<diagram program="umletino" version="14.3.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>70</x><y>120</y><w>210</w><h>190</h></coordinates><panel_attributes>KI_Base
+--
+--
++DoTurn(): void
+-PlaceInColum(i: int): void
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>330</x><y>150</y><w>210</w><h>70</h></coordinates><panel_attributes>KI_Random
+--
+-GetRandom(): int
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>270</x><y>120</y><w>180</w><h>50</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;160;10;160;30</additional_attributes></element><element><id>UMLClass</id><coordinates><x>580</x><y>150</y><w>210</w><h>70</h></coordinates><panel_attributes>KI_
+--
+
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>270</x><y>120</y><w>430</w><h>50</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;410;10;410;30</additional_attributes></element></diagram>
